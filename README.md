@@ -45,11 +45,3 @@ You should have the output as hown in the image below
 
 ![Phone number Tracke](image2.png)
 
-### Share it and Give it a star 
-
-If you find it useful, you can give it a star and share with your fellow peers on what you have achieved 
-
-
-Credits
------------
-All the credits to [kalebu](github.com/kalebu)
